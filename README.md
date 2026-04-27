@@ -10,13 +10,13 @@
 
 У межах роботи було реалізовано 4 скрипти для роботи з файловою системою:
 
-1. **6.1 FILE READ** (`file\_read.js`) — читання JSON-файлу.
+1. **6.1 FILE READ** (`file_read.js`) — читання JSON-файлу.
 
-2. **6.2 FILE WRITE** (`file\_write.js`) — запис JSON-даних.
+2. **6.2 FILE WRITE** (`file_write.js`) — запис JSON-даних.
 
-3. **6.3 FILE UPDATE** (`file\_update.js`) — оновлення об'єкта за ID.
+3. **6.3 FILE UPDATE** (`file_update.js`) — оновлення об'єкта за ID.
 
-4. **6.4 FILE DELETE** (`file\_delete.js`) — видалення об'єкта за ID.
+4. **6.4 FILE DELETE** (`file_delete.js`) — видалення об'єкта за ID.
 
 
 
